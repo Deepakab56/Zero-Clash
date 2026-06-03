@@ -63,7 +63,7 @@ contract logic.
 
 ## 🏗 Project Structure
 
-\`\`\`
+
 zero-clash/
 ├── programs/
 │   └── zero-clash/
@@ -77,7 +77,7 @@ zero-clash/
 │       ├── pages/
 │       └── utils/
 └── tests/
-\`\`\`
+
 
 ---
 
